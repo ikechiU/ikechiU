@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ikechiU
+- 👋 Hi, I’m Ikechi Ucheagwu
 - 👀 I’m interested in Mobile Development (Android)
 - 🌱 I’m currently learning Jetpack Compose and MVI Architectural pattern
 - 💞️ I’m looking to collaborate on any project to develop and improve my knowledge in Android.
